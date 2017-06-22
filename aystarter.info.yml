@@ -1,0 +1,15 @@
+name: AYstarter
+type: theme
+description: 'The ultimate AYstarter theme'
+core: 8.x
+libraries:
+  - aystarter/global-css
+  - aystarter/global-js
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_first: 'Sidebar second'
+  footer: Footer
+stylesheets-remove:
+  - core/assets/vendor/normalize-css/normalize.css

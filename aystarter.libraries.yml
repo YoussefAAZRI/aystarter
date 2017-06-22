@@ -1,0 +1,7 @@
+global-css:
+  css:
+    theme:
+      css/main.css: {}
+global-js:
+  js:
+    js/main.js: {}
